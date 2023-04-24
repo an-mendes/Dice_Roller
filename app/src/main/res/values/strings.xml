@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="_4d">4d</string>
+    <string name="_6d">6d</string>
+    <string name="_8d">8d</string>
+    <string name="_12d">12d</string>
+    <string name="_20d">20d</string>
+</resources>
